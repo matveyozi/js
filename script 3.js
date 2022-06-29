@@ -85,3 +85,9 @@ function writeYourGenres() {
 	}
 }
 writeYourGenres();
+
+/* SHARDONE 
+SAVINION BUAN
+SAVINION
+PINOGRIJIO
+white vine */
